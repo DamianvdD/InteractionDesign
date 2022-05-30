@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Dit is een opdracht voor InteractionDesign
 
 Het HTML/CSS/JS zal zich hier niet als bestanden bevinden maar als een link. Dit omdat het word gebruikt door een bedrijf.
