@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+
+* {
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;   
+    background-image: url("../Images/SVG/background.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%; 
+}
+
+nav {
+    width: 100%;
+    height: 100px;
+    background-image: url("../Images/SVG/RMSLogoKaderRGB.svg");
+    background-repeat: no-repeat;
+    object-fit: fill;
+}
+
+.main {
+    font-size: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 80vh;
+    gap: 20px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.btn {
+    border: none;
+    background: #97d900;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    cursor: pointer;
+    border-radius: 15px;
+    font-weight: bold;
+    width: 138px;
+    height: 40px;
+    margin-left: 200px;
+    color: white;
+    flex-direction: row;
+}
+
+.btnlink {
+    text-decoration: none;
+}
+
+.btn:hover {
+    border: none;
+    background: #FFE900;
+    transition: background-color 0.7s ease;
+}
+
+.form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 35px;
+}
+
+.hidden {
+    display: none;
+}
+
+.Normaal {
+    border: none;
+    background: #EDEDED;
+    border-radius: 15px;
+    width: 338px;
+    height: 61px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    padding-left: 20px;
+}
+
+.Toevoeging {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+    text-align: center;
+    margin-right: 195px;
+    margin-top: -60px;
+}
+
+.terug {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+    text-align: center;
+    margin-right: 200px;
+    margin-top: -60px;
+}
+
+.terugbtn {
+    border: none;
+    background: #97d900;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    cursor: pointer;
+    border-radius: 15px;
+    color: white;
+    font-weight: bold;
+    width: 138px;
+    height: 40px;
+}
+
+.terugbtn:hover {
+    border: none;
+    background: #FFE900;
+    transition: background-color 0.7s ease;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
