@@ -1,4 +1,4 @@
-Dit is een opdracht voor InteractionDesign
+# Dit is een opdracht voor InteractionDesign
 
 Het gehele HTML/CSS/JS zal zich hier niet als alle bestanden bevinden maar als een link en 3 losse bestanden. Dit omdat het word gebruikt door een bedrijf.
 
